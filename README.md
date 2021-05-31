@@ -8,3 +8,7 @@ The purpose of this app is to serve as a centralized news dashboard bringing tog
 
   `newsAPIKey="ENTER_YOUR_KEY_HERE"`
 - Run the app
+
+## Architecture Diagram
+
+![architecture diagram](https://user-images.githubusercontent.com/30885684/120168749-cb01a200-c231-11eb-8a0c-150744f5fd06.png)
